@@ -1,4 +1,4 @@
 
-> This is an advance ecommerce project with Django and Python.
+> This is an  ecommerce project with Django and Python.
 
 
